@@ -1,6 +1,7 @@
 // import { charmander } from './bases/03-classes';
 // import { name, age } from './bases/01-types';
-import { charmander } from './bases/04-injection';
+// import { charmander } from './bases/04-injection';
+import { charmander } from './bases/05-decorators';
 import './style.css';
 
 console.log(charmander);
