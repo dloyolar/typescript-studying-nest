@@ -1,6 +1,7 @@
-import { charmander } from './bases/03-classes';
-import './style.css';
+// import { charmander } from './bases/03-classes';
 // import { name, age } from './bases/01-types';
+import { charmander } from './bases/04-injection';
+import './style.css';
 
 console.log(charmander);
 
